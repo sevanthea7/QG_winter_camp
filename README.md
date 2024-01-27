@@ -6,6 +6,8 @@ python_learning --> w1.17.py
 python_learning --> w1.18.py
 python_learning --> w1.19.py
 python_learning --> w1.24.py
+python_learning --> w1.25.py
+python_learning --> w1.27.py
 master --> note
 note --> 笔记1-1.15.md
 note --> 笔记2-1.17.md
@@ -13,6 +15,9 @@ note --> 笔记3-1.18.md
 note --> 笔记4-1.19.md
 note --> 笔记5-1.20.md
 note --> 笔记7-1.24.md
+note --> 笔记8-1.25.md
+note --> 笔记9-1.26.md
+note --> 笔记9-1.27.md
 master --> README.md
 ```
 
@@ -109,3 +114,40 @@ master --> README.md
   - 矩阵转置
   - 矩阵的逆
   - 矩阵存取
+
+
+
+##### 1.25
+
+==note --> 笔记8[1.25]==
+
+==code --> python_learning --> w1.25.py==
+
+* pandas库学习
+  * Series&DataFrame
+  * 初步学习读取数据
+  * 简单的数据清洗
+
+
+
+##### 1.26
+
+==note --> 笔记9[1.26]==
+
+- 总结1.17~1.19学习python的内容
+
+
+
+##### 1.27
+
+==note --> 笔记10[1.27]==
+
+==code --> python_learning --> w1.27.py==
+
+* matplotlib库学习
+  * 基础的绘图语法
+    * 散点图
+    * 曲线图
+    * 条形图
+    * 扇形图
+
