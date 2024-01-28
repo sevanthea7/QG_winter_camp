@@ -8,6 +8,7 @@ python_learning --> w1.19.py
 python_learning --> w1.24.py
 python_learning --> w1.25.py
 python_learning --> w1.27.py
+python_learning --> w1.28-project1.py
 master --> note
 note --> 笔记1-1.15.md
 note --> 笔记2-1.17.md
@@ -18,6 +19,7 @@ note --> 笔记7-1.24.md
 note --> 笔记8-1.25.md
 note --> 笔记9-1.26.md
 note --> 笔记9-1.27.md
+note --> 项目1-1.28.md
 master --> README.md
 ```
 
@@ -150,4 +152,16 @@ master --> README.md
     * 曲线图
     * 条形图
     * 扇形图
+
+
+
+##### 1.28
+
+==note --> 项目1[1.28]==
+
+==code --> python_learning --> w1.28-project1.py==
+
+- 泰坦尼克号数据集可视化
+  - 分别设计对各指标的生还数（率）进行对比可视化
+  - 分析可视化结果
 
