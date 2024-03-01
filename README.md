@@ -9,6 +9,9 @@ python_learning --> w1.24.py
 python_learning --> w1.25.py
 python_learning --> w1.27.py
 python_learning --> w1.28-project1.py
+python_learning --> w2.5.py
+code --> data_structure
+data_structure --> 1.create_plural.c
 master --> note
 note --> 笔记1-1.15.md
 note --> 笔记2-1.17.md
